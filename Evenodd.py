@@ -1,5 +1,6 @@
 a=10;
 if a % 2==0:
-	print("Even");
+	print("Even number");
 else:
-	print("Odd");
+	print("Odd number");
+print("number");
