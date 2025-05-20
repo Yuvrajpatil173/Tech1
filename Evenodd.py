@@ -4,3 +4,4 @@ if a % 2==0:
 else:
 	print("Odd number");
 print("number");
+print("number");
